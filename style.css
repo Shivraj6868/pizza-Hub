@@ -4,3 +4,43 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: black;
+}
+.navbar {
+    display: flex;
+    align-items: center;
+    background-color: #000912;
+    height: 55px;
+}
+
+.pizza-Hub_logo {
+    display: flex;
+    margin-left: 30px;
+    
+}
+
+.pizza-Hub_logo p {
+    color: white;
+    font-weight: 500;
+    font-size: 29px;
+}
+
+.pizza-Hub_logo h1 {
+    color: rgb(245, 181, 5);
+    margin-left: 5px;
+}
+
+.nav-action {
+    margin-left: 500px;
+}
+
+.nav-action a {
+    color: white;
+    margin-left: 60px;
+    border-radius: 2px;
+}
+
+a:hover {
+    border: 0.8px solid rgb(191, 187, 187);
+}
