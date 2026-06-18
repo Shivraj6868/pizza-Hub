@@ -89,3 +89,66 @@ a:hover {
     margin-left: 20px;
     color: rgb(245, 129, 5);
 }
+
+.Page-2 {
+    background-image: linear-gradient(
+            rgba(0, 0, 0, 0.5),
+            rgba(0, 0, 0, 0.5)
+        ),url("pizza_background_image-2.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 850px;
+    display: flex;
+}
+
+.page-2_text h1{
+    color: rgb(245, 109, 5);
+    margin-left: 700px;
+    margin-top: 85px;
+    font-size: 50px;
+}
+
+.about-1  {
+    margin-top: 50px;
+}
+.page-2_text h2{
+    margin-left: 700px;
+    font-size: 35px;
+}
+
+.about-2  {
+    margin-top: 50px;
+}
+
+.about-3 {
+    display: flex;
+    margin-top: 50px;
+}
+
+.about-3 h3 {
+    font-size: 35px;
+    margin-left: 5px;
+    color: rgb(245, 129, 5);
+}
+
+.about-4 {
+    display: flex;
+    margin-top: 50px;
+}
+
+.about-4 h3 {
+    font-size: 35px;
+    margin-left: 5px;
+    color: rgb(245, 129, 5);
+}
+
+.about-5 {
+    display: flex;
+    margin-top: 50px;
+}
+
+.about-5 h3 {
+    font-size: 35px;
+    margin-left: 5px;
+    color: rgb(245, 129, 5);
+}
