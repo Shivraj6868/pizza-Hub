@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color: white;
 }
 
 body {
@@ -27,7 +28,7 @@ body {
 }
 
 .pizza-Hub_logo h1 {
-    color: rgb(245, 181, 5);
+    color: rgb(233, 137, 34);
     margin-left: 5px;
 }
 
@@ -43,4 +44,48 @@ body {
 
 a:hover {
     border: 0.8px solid rgb(191, 187, 187);
+}
+
+.Page-1 {
+    background-image: url("pizza_background_image-1.jpg");
+    height: 720px;
+    background-size: cover;
+    display: flex;
+}
+
+.page-1_text {
+    margin-top: 150px;
+}
+
+
+.page-1_text h3{
+    font-size: 80px;
+    font-weight: 200;
+    margin-top: 20px;
+    color: rgb(245, 129, 5);
+    margin-left: 90px;
+}
+
+.page-1_text p{
+    font-size: 50px;
+    font-weight: 100;
+    margin-left: 280px;
+    margin-top: 20px;
+}
+
+
+.page-1_text h2{
+    font-size: 70px;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-left: 80px;
+    
+}
+
+.page-1_text h1{
+    font-size: 80px;
+    font-weight: 900;
+    margin-top: 15px;
+    margin-left: 20px;
+    color: rgb(245, 129, 5);
 }
