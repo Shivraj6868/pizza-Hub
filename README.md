@@ -10,6 +10,7 @@ This project is built for practicing frontend development and UI design skills.
 
 ## 🌐 Live Demo
 
+https://pizza-hub-red-eta.vercel.app/
 
 ---
 
