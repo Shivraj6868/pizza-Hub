@@ -195,3 +195,21 @@ a:hover {
 .menu-pizza {
     margin-top: 100px;
 }
+
+.Page-4 {
+    background-image: url("pizza_background_image-3.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    height:700px;
+}
+
+.page-4_text {
+    margin-top: 90px;
+    font-size: 40px;
+}
+
+.page-4_text h1 {
+    color: rgb(245, 129, 5);
+}
+
