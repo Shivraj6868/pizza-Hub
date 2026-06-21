@@ -14,27 +14,27 @@ This project focuses on creating a premium restaurant landing page with attracti
 ## 📸 Screenshots
 
 ### Home Section
-![Home](03e2fab7-ef91-4c4d-82fa-b41254912c37.png)
+![Home]
 
 ---
 
 ### About Section
-![About](c1b50baa-92ce-442f-9ba5-42c9fdc4d454.png)
+![About]
 
 ---
 
 ### Signature Pizzas / Menu
-![Menu](57db1c16-dc28-4ef1-8d64-2b1d799c509e.png)
+![Menu]
 
 ---
 
 ### Thank You Section
-![Thanks](2ce5e2d7-8768-47a6-a014-e267428556af.png)
+![Thanks]
 
 ---
 
 ### Footer Section
-![Footer](4a05bc04-0126-477b-8fb7-ccc60c4d8a98.png)
+![Footer]
 
 ---
 
