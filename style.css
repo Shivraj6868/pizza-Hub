@@ -213,3 +213,24 @@ a:hover {
     color: rgb(245, 129, 5);
 }
 
+.footer-box {
+    height:250px;
+    background-color: #000912;
+    display: flex;
+    justify-content: center;
+}
+
+.build-by {
+    display: flex;
+    margin-top: 80px;
+    position: relative;
+    right: 25px;
+    font-size: 20px;
+}
+
+.copyright {
+    display: flex;
+    margin-top: 30px;
+    position: relative;
+    left: 20px;
+}
