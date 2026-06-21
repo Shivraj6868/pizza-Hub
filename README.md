@@ -7,7 +7,7 @@ This project focuses on creating a premium restaurant landing page with attracti
 
 ## 🚀 Live Demo
 
-[🔗 Add your deployed website link here](https://pizza-hub-red-eta.vercel.app/)
+(https://pizza-hub-red-eta.vercel.app/)
 
 ---
 
